@@ -11,3 +11,7 @@ This lab has a stock check feature which fetches data from an internal system. T
     http://localhost/admin/delete?username=carlos
 
     * Submit this URL in the stockApi parameter, to deliver the SSRF attack.
+    
+
+![Screenshot_2023-05-20_02_44_09](https://github.com/a-fai1ur3/Writeups/assets/119417999/4a87b88a-5ce2-4727-b8df-511ef84ea8ae)
+![Screenshot_2023-05-20_02_46_44](https://github.com/a-fai1ur3/Writeups/assets/119417999/551a37fa-5a25-419f-94a3-6faa81eaac9b)
