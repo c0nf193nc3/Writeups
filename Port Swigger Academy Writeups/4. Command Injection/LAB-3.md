@@ -18,3 +18,7 @@ The application serves the images for the product catalog from this location. Yo
         filename=output.txt
 
     * Observe that the response contains the output from the injected command.
+
+![Screenshot_2023-05-19_23_09_17](https://github.com/a-fai1ur3/Writeups/assets/119417999/9c8dcc18-27fc-401f-aa38-17b86463aeaa)
+
+![Screenshot_2023-05-19_23_10_40](https://github.com/a-fai1ur3/Writeups/assets/119417999/825d503d-8d9e-4065-bfc5-0d395efa8c2e)
