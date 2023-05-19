@@ -9,3 +9,5 @@ This lab contains a blind OS command injection vulnerability in the feedback fun
         email=email.com||ping+-c+10+127.0.0.1||
 
     * Observe that the response takes 10 seconds to return.
+    
+![Screenshot_2023-05-19_22_51_01](https://github.com/a-fai1ur3/Writeups/assets/119417999/c148e0b8-fef1-422c-a8ee-141880dbd6a4)
