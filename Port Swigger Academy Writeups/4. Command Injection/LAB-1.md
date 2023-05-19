@@ -8,3 +8,6 @@ This lab contains an OS command injection vulnerability in the product stock che
     * Use Burp Suite to intercept and modify a request that checks the stock level.
     * Modify the storeID parameter, giving it the value 1|whoami.
     * Observe that the response contains the name of the current user.
+    
+
+![Screenshot_2023-05-19_21_02_32](https://github.com/a-fai1ur3/Writeups/assets/119417999/3c5d953d-e2a9-4f2a-b78d-2c2e4ae57791)
