@@ -9,4 +9,7 @@ This lab has a stock check feature which fetches data from an internal system. T
     * Append a # to the username and observe that the URL is now rejected.
     * Double-URL encode the # to %2523 and observe the extremely suspicious "Internal Server Error" response, indicating that the server may have attempted to connect to "username".
     * To access the admin interface and delete the target user, change the URL to:
-    http://localhost:80%2523@stock.weliketoshop.net/admin/delete?username=carlos
+    http://127.0.0.1:80%2523@stock.weliketoshop.net/admin/delete?username=carlos
+    
+![Screenshot_2023-05-20_15_15_42](https://github.com/a-fai1ur3/Writeups/assets/119417999/292317d9-5ab6-4ecc-a219-035b2da02eae)
+![Screenshot_2023-05-20_15_14_58](https://github.com/a-fai1ur3/Writeups/assets/119417999/45f4ed7d-b410-42a7-8b14-fc8d7c07f3bb)
